@@ -1,0 +1,83 @@
+.flex{
+	display: flex;
+}
+body{
+	font-family: myfont;
+}
+.banner{
+	font-size: 10px;
+	margin-left: 25px;
+}
+@font-face{
+	font-family: myfont;
+	src: url(myfont.ttf);
+}
+.div1{
+	height: 500px;
+	width: 400px;
+}
+.div2{
+	height: 500px;
+	width: 400px;
+	margin-left: 70px;
+}
+.div3{
+	height: 500px;
+	width: 400px;
+	margin-left: 70px;
+}
+.flex p{
+	font-size: 13px;
+}
+.flex h2{
+	font-size: 20px;
+}
+.D200{
+	color: orange;
+}
+.h1{
+	font-size: 15px;
+}
+.div4{
+	height: 500px;
+	width: 400px;
+}
+.div5{
+	height:	500px;
+	width:400px;
+	margin-left: 70px;
+}
+.div6{
+	height: 500px;
+	width: 400px;
+	margin-left: 70px;
+}
+.left{
+	margin-left: 100px;
+}
+.menu{
+	height: 900px;
+	width: 600px;
+}
+.div7{
+	width: 120px;
+}
+.div8{
+	width: 100px;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+.div9{
+	margin-top: 10px;
+}
+.div10{
+	margin-top: 10px;
+	margin-left: 15px;
+}
+.div11{
+	margin-top: 10px;
+	margin-left: 15px;
+}
+.aliign{
+	text-align: center;
+}
